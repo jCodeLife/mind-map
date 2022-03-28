@@ -6,7 +6,12 @@
 
 如何查阅：
 1. 点击 `Github` 右上角的 `Fork` 按钮，将仓库 `Fork` 仓库到个人空间
-2. `Clone` 个人空间项目到本地即可查阅：`git clone git@github.com:username/mind-map.git`
+2. `Clone` 个人空间项目到本地即可查阅
+```
+git clone https://github.com/username/vuex.git
+```
+
+
 
 
 ## 待办项
