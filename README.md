@@ -85,7 +85,7 @@
     - MobX 🉑🚫
     - Recoil 🉑🚫
 - 10.2 Vue 🉑
-    - Vue 基础
+    - Vue 基础✅
         - [Vue](https://github.com/jCodeLife/mind-map/tree/master/Vue(101%E5%BC%A0%E5%9B%BE)) 101张✅
         - [Vue 3 新](https://github.com/jCodeLife/mind-map/tree/master/Vue3%E6%96%B0%E6%96%87%E6%A1%A3) 50张✅
     - Vuex🚫
@@ -123,7 +123,7 @@
 - Enzyme ⭐️🚫
 
 15. 类型检查 🔥
-- TypeScript ⭐️
+- TypeScript ⭐️✅
     - [TS](https://github.com/jCodeLife/mind-map/tree/master/TS%EF%BC%8827%E5%BC%A0%E5%9B%BE%EF%BC%89) 27张 ✅
 - Flow ⏳🚫
 
