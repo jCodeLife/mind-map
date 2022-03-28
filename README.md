@@ -1,12 +1,12 @@
 ## 简介
 
-`mind-map` 是个人学习路上的一些小结，以思维导图的方式总结的相关知识点
+`mind-map` 是个人学习路上的一些小结，以思维导图的方式总结所有前端相关知识点
 
 主要目的：提升知识的广度
 
-如何下载查阅：
+如何查阅：
 1. 点击 `Github` 右上角的 `Fork` 按钮，将仓库 `Fork` 仓库到个人空间
-2. `Clone` 个人空间项目到本地：`git clone git@github.com:username/mind-map.git`
+2. `Clone` 个人空间项目到本地即可查阅：`git clone git@github.com:username/mind-map.git`
 
 
 ## 待办项
