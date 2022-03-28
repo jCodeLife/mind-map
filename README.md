@@ -6,6 +6,7 @@
 1. 点击 `Github` 右上角的 `Fork` 按钮，将仓库 `Fork` 仓库到个人空间
 2. `Clone` 个人空间项目到本地即可查阅
 
+当前进度： `3/85`
 ### 待办项
 
 标志说明：
@@ -42,11 +43,11 @@
 - 响应式设计和媒体查询 ⭐️🚫
 
 3. JavaScript🔥
-- JS 基础 ⭐️
-- DOM 操作 ⭐️
-- Ajax、Fetch ⭐️
+- JS 基础 ⭐️🚫
+- DOM 操作 ⭐️🚫
+- Ajax、Fetch ⭐️🚫
 - [ES 6](https://github.com/jCodeLife/mind-map/tree/master/ES6(29%E5%BC%A0%E5%9B%BE)) 29张 ⭐️✅
-- 进一步了解提升、事件冒泡、作用域、原型、影子DOM、严格模式、浏览器如何运作、DNS、HTTP等概念 ⭐️
+- 进一步了解提升、事件冒泡、作用域、原型、影子DOM、严格模式、浏览器如何运作、DNS、HTTP等概念 ⭐️🚫
 4. 版本控制系统 🔥
 - Git ⭐️🚫
 - GitHub ⭐️🚫
