@@ -42,7 +42,11 @@
 - 响应式设计和媒体查询 ⭐️🚫
 
 3. JavaScript🔥
-    - [ES6](https://github.com/jCodeLife/mind-map/tree/master/ES6(29%E5%BC%A0%E5%9B%BE)) 29张✅
+- JS 基础 ⭐️
+- DOM 操作 ⭐️
+- Ajax、Fetch ⭐️
+- [ES 6](https://github.com/jCodeLife/mind-map/tree/master/ES6(29%E5%BC%A0%E5%9B%BE)) 29张 ⭐️✅
+- 进一步了解提升、事件冒泡、作用域、原型、影子DOM、严格模式、浏览器如何运作、DNS、HTTP等概念 ⭐️
 4. 版本控制系统 🔥
 - Git ⭐️🚫
 - GitHub ⭐️🚫
@@ -84,7 +88,7 @@
     - Redux ⭐️🚫
     - MobX 🉑🚫
     - Recoil 🉑🚫
-- 10.2 Vue 🉑
+- 10.2 Vue ⭐️
     - Vue 基础✅
         - [Vue](https://github.com/jCodeLife/mind-map/tree/master/Vue(101%E5%BC%A0%E5%9B%BE)) 101张✅
         - [Vue 3 新](https://github.com/jCodeLife/mind-map/tree/master/Vue3%E6%96%B0%E6%96%87%E6%A1%A3) 50张✅
