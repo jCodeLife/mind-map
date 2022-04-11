@@ -11,10 +11,10 @@
 已完成的有：
 
 [![](https://img.shields.io/badge/ES6-29张-1989fa)](https://github.com/jCodeLife/mind-map/tree/master/ES6)
-[![](https://img.shields.io/badge/TS-27张-1989fa)](https://github.com/jCodeLife/mind-map/tree/master/TS)
-[![](https://img.shields.io/badge/Vue-101张-1989fa)](https://github.com/jCodeLife/mind-map/tree/master/Vue)
-[![](https://img.shields.io/badge/Vue3-50张-1989fa)](https://github.com/jCodeLife/mind-map/tree/master/Vue3%E6%96%B0%E6%96%87%E6%A1%A3)
-[![](https://img.shields.io/badge/React-86张-1989fa)](https://github.com/jCodeLife/mind-map/tree/master/React)
+[![](https://img.shields.io/badge/TS-27张-ff976a)](https://github.com/jCodeLife/mind-map/tree/master/TS)
+[![](https://img.shields.io/badge/Vue-101张-ed6a0c)](https://github.com/jCodeLife/mind-map/tree/master/Vue)
+[![](https://img.shields.io/badge/Vue3-50张-07c160)](https://github.com/jCodeLife/mind-map/tree/master/Vue3%E6%96%B0%E6%96%87%E6%A1%A3)
+[![](https://img.shields.io/badge/React-86张-ffd01e)](https://github.com/jCodeLife/mind-map/tree/master/React)
 ### 待办项
 
 标志说明：
